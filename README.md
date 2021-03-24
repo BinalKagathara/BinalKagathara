@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BinalKagathara
+- 👋 Heyy there!!!, I’m BinalKagathara
 - 👀 I’m interested in cloud computing 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me : binalkagathara@gmail.com
