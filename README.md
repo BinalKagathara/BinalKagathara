@@ -1,12 +1,10 @@
 
-- **👋 Heyy there!!!, I’m BinalKagathara**
-- 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning flutter
-- 📫 How to reach me : binalkagathara@gmail.com
-
+# 👋 Heyy there!, I’m Binal Kagathara
+- 👩‍💻 Final year student at CHARUSAT University
+- 👀 I’m interested in **cloud computing**
+- 🌱 I’m currently learning **Docker**
 
 ![](https://komarev.com/ghpvc/?username=BinalKagathara)
-
 
 
 <!---
