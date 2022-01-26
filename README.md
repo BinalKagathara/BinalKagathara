@@ -1,7 +1,7 @@
 
 # 👋 Heyy there!, I’m Binal Kagathara
 - 👩‍💻 Final year student at CHARUSAT University
-- talks about cloud stuff!
+- #talks about cloud stuff!
 
 ![](https://komarev.com/ghpvc/?username=BinalKagathara)
 
