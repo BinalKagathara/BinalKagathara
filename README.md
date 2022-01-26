@@ -1,8 +1,7 @@
 
 # 👋 Heyy there!, I’m Binal Kagathara
 - 👩‍💻 Final year student at CHARUSAT University
-- 👀 I’m interested in **cloud computing**
-- 🌱 I’m currently learning **Docker**
+- talks about cloud stuff!
 
 ![](https://komarev.com/ghpvc/?username=BinalKagathara)
 
